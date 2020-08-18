@@ -9,7 +9,7 @@
 </h4>
 
 <h1 align="center">
-  <img alt="CepApp" title="#CepApp"  width="150" height="220" src="./assets/foto1.webp" />
-  <img alt="CepApp" title="#CepApp" width="150" height="220" src="./assets/foto2.webp" />
-  <img alt="CepApp" title="#CepApp" width="150" height="220" src="./assets/foto3.webp" />
+  <img alt="CepApp" title="#CepApp"  width="250" height="420" src="./assets/foto1.webp" />
+  <img alt="CepApp" title="#CepApp" width="250" height="420" src="./assets/foto2.webp" />
+  <img alt="CepApp" title="#CepApp" width="250" height="420" src="./assets/foto3.webp" />
 </h1>
