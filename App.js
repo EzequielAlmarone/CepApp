@@ -120,7 +120,8 @@ const styles = StyleSheet.create({
   resultado: {
     flex: 1,
     justifyContent: 'center',
-    alignItems: 'center'
+    alignItems: 'center',
+    padding: 25,
   },
   itemText: {
     fontSize: 24,
