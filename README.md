@@ -13,3 +13,10 @@
   <img alt="CepApp" title="#CepApp" width="250" height="420" src="./assets/foto2.webp" />
   <img alt="CepApp" title="#CepApp" width="250" height="420" src="./assets/foto3.webp" />
 </h1>
+
+### 🛠 Tecnologias
+
+A ferramenta que foi usada na construção do projeto:
+
+✔️ [React Native](https://reactnative.dev/)
+
