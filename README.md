@@ -23,5 +23,5 @@ A ferramenta que foi usada na construção do projeto:
 
 ## 🦸 Autor
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezequiel-almarone-66683370/)](https://www.linkedin.com/in/ezequiel-almarone-66683370/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ezequiel.almarone@gmail.com)](ezequiel.almarone@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Ezequiel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezequiel-almarone-66683370/)](https://www.linkedin.com/in/ezequiel-almarone-66683370/) 
+[![Gmail Badge](https://img.shields.io/badge/-ezequiel.almarone@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ezequiel.almarone@gmail.com)](ezequiel.almarone@gmail.com)
