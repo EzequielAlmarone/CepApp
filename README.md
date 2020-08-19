@@ -18,8 +18,8 @@
 
 A ferramenta que foi usada na construção do projeto:
 
-** ✔️ [React Native](https://reactnative.dev/)**
-** ✔️ [Axios](https://github.com/axios/axios)**
+✔️ [React Native](https://reactnative.dev/)
+✔️ [Axios](https://github.com/axios/axios)
 
 ## 🦸 Autor
 
